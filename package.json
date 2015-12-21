@@ -1,0 +1,15 @@
+{
+  "name": "rootMeadow",
+  "version": "1.0.0",
+  "description": "Practicas de node.js",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "testme"
+  },
+  "author": "guillermo.pena",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "express3-handlebars": "^0.5.2"
+  }
+}
